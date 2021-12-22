@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="indraToolbarStyle" format="reference"/>
+    <attr name="indraToolbarWithCloseButtonStyle" format="reference"/>
+    <attr name="textInputSignInStyle" format="reference"/>
+    <attr name="colorPrymaryIndra" format="reference"/>
+    <attr name="colorSurfaceIndra" format="reference"/>
+    <attr name="design_snackbar_background_color" format="reference"/>
+</resources>

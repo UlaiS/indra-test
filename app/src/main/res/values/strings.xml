@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Indra</string>
+
+    <string name="button_try_again">Intentar de nuevo</string>
+    <string name="menu_item_popular">POPULAR</string>
+    <string name="menu_item_now_playing">NOW PLAYING</string>
+    <string name="title_popular">Más populares</string>
+    <string name="title_now_playing">Reproduciendo Ahora</string>
+    <string name="toolbar_navigation_close_description">Close</string>
+    <string name="label_txt_overview">Resumen: </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="video_key">%s</string>
+</resources>

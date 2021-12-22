@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_most_popular"
+        android:icon="@drawable/ic_popular_24"
+        android:title="@string/menu_item_popular" />
+
+    <item
+        android:id="@+id/navigation_now_playing"
+        android:icon="@drawable/ic_now_playing_24"
+        android:title="@string/menu_item_now_playing" />
+
+</menu>
